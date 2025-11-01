@@ -1,9 +1,1 @@
-{
-  "cors": [
-    {
-      "origin": ["http://localhost:5173", "http://localhost:3000", "https://your-username.github.io"],
-      "method": ["GET", "POST", "PUT", "DELETE", "HEAD"],
-      "maxAgeSeconds": 3600
-    }
-  ]
-}
+
